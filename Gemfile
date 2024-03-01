@@ -8,6 +8,8 @@ gem "rails", "~> 7.1.3"
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
+gem 'webpacker', '~> 5.0'
+
 # Use postgresql as the database for Active Record
 gem "pg", "~> 1.1"
 
