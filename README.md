@@ -121,7 +121,7 @@ To run the project, execute the following command:
 
 ## ✍️ Author <a name="authors"></a>
 
-👤 **Lucas Erkana**
+👤 **Yesuf Fenta**
 
 - GitHub: [@yusufyusie](https://github.com/yusufyusie)
 - Twitter: [@yusufyusie](https://twitter.com/@yusufyusiee)
